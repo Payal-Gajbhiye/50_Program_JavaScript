@@ -13,7 +13,7 @@ if (number < 0) {
   console.log(`factorial of ${number} is ${fact}`);
 }
 
-// Example 2 - with if...else
+// Example 2 - with if....else
 const check = 5;
 
 if (check < 0 || check === 0) {
